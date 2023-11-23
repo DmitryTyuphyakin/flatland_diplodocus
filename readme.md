@@ -5,18 +5,22 @@ What is it?
 -----------
 
 A few days ago my little son was preparing for his first conference.
-He should have spoken about dinosaurs.
+He wanted to tell about dinosaurs.
 I think, that the part about dinosaurs extinction was most difficult to understanding him.
-It looks like the meteorite killed them all at once, in one moment.
+It looked like the meteorite killed them all at once, in one moment.
 
-So, I'm trying to show the basic principles of evolution: how descendants will be able to adapt to a new environment if it changes slowly, and what will happen otherwise.
+So, I'm tryed to show the basic principles of evolution: how descendants will be able to adapt to a new environment if it changes slowly, and what will happen otherwise.
 
-I take the Abbot's world (flatland) because it simple and cute.
+I did take the [Abbot's](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott) world
+( [flatland](https://en.wikipedia.org/wiki/Flatland) )
+because it simple and cute.
 
 Events take place in the wild forest.
-There are a lot of diplodocus in this forest.
-Diplodocus eats tree leaves. So if trees is too high, no one be alive
-If trees slowly growing, then next generations of the diplodocus must be growing too
+There are a lot of diplodocus (`gray rectangle` - parents, `blue rectangle` - childs)
+in this forest.
+Diplodocus eats tree leaves (`green rectangle`).
+So if trees is too high, no one be alive
+If the height of the trees changes slowly (up or down), then subsequent generations of diplodocus will change in the same way.
 
 ![Diplodocus history](demo.gif)
 
