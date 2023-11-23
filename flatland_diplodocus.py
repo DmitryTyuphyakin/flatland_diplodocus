@@ -139,7 +139,7 @@ if __name__ == "__main__":
 
     # Start the world
     ani = animation.FuncAnimation(fig, epoch(birthday, delta, edge),
-                                  100, interval=100, repeat=False, blit=True)
+                                  500, interval=100, repeat=True, blit=True)
 
     # # Save gif
     # ani.save('demo.gif', writer='imagemagick', fps=30)
